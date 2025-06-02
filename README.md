@@ -1,4 +1,4 @@
-# Programming language blog logo repository
+# Programming language blob logo repository
 Get the blobs, go viral! Get trusted!
 ![BLOBPYTHONLOGO](https://github.com/user-attachments/assets/e5d889b5-fc6d-4d74-be23-0b163335af20)
 ![BLOBPSLOGO](https://github.com/user-attachments/assets/aabcac13-ed5b-4bcf-a733-4d9d1236df04)
